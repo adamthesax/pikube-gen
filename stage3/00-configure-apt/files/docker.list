@@ -1,1 +1,1 @@
-deb [arch=armhf] https://download.docker.com/linux/raspbian RELEASE stable
+deb [arch=arm64] https://download.docker.com/linux/debian RELEASE stable
